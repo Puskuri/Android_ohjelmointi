@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="currencies_array">
+        <item>SEK</item>
+        <item>NOK</item>
+        <item>DKK</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="hello">HELLO</string>
+    <string name="title_activity_main2" translatable="false">MainActivity2</string>
+    <string name="title_home" translatable="false">Home</string>
+    <string name="title_dashboard" translatable="false">Dashboard</string>
+    <string name="title_notifications" translatable="false">Notifications</string>
+    <string name="text_apm_off" translatable="false" />
+    <string name="text_apm_on" translatable="false" />
+</resources>
