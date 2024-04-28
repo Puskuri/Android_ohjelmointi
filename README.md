@@ -7,3 +7,5 @@ sisältää sekunttikellon jonka voi pysäyttää, lopettaa ja aloittaa uudestaa
 
 Oheistiedostoina ApmReceiver joka ilmoittaa lentokonetilan (joko pois tai päällä). Toisena tiedostona on DataStoreHelper ja singleton jotka tallettavat GameActivityn pelin pisteet
 laitteen muistiin. MainActivity2 on myös toiminnallisuus joka kysyy käyttäjältä lupaa sijainnin käyttöön.
+
+Itsellä haasteita saada joskus saada sovellus toimimaan, johtuen ehkä tietokoneesta. Jos ongelmia ilmenee, itsellä auttoi "clean project" => "rebuild project" => "sync project with gradle files". Ja joskus emulaattorin asetuksista "wipe data".
